@@ -10,7 +10,7 @@ Estoy abierto a recibir consejos, tips o recursos que puedan ayudarme a mejorar 
 ## Foto mia
 ![foto de un pibe](foto.jpg)
 ## Conclusion
-- Si les gustaria preguntarme algo sobre (No conte nada personal) pueden preguntarme.
+- Si les gustaria preguntarme algo sobre mi(No conte nada personal) pueden preguntarme.
 - Si quieren darme consejos sobre algoritmos y como rendir el final pueden escribirlo.
   
 ## Agradecimientos
