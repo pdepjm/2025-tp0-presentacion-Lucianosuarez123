@@ -1,5 +1,10 @@
-## Bienvenidos 
-### Esta es mi presentación.
-Mi nombre es Luciano Nicolas Suarez, tengo 21 años y estoy cursando además de esta materia: sistemas operativos, Comunicación de datos y Física 2.
-Entre otros finales debo el de algoritmos y me gustaría poder rendirlo este año. Para ello busco además de aprender más sobre programación, algunos tips o información que puedan servirme para poder rendirlo de la mejor forma.
-Muchas gracias por tomarse el tiempo de leer. Saludos!
+##¡Bienvenidos!
+### Sobre mí
+Hola, mi nombre es Luciano Nicolás Suárez, tengo 21 años y actualmente estoy cursando Sistemas Operativos, Comunicación de Datos y Física 2.
+
+Me interesa mejorar mis habilidades en programación. Aunque aún debo rendir el final de Algoritmos, estoy enfocado en aprender y prepararme para aprobarlo este año.
+
+Estoy abierto a recibir consejos, tips o recursos que puedan ayudarme a mejorar en programación. ¡Cualquier aporte será bienvenido!
+
+Gracias por tomarte el tiempo de leer.
+¡Saludos!
