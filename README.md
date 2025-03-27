@@ -1,4 +1,4 @@
-##¡Bienvenidos!
+## ¡Bienvenidos!
 ### Sobre mí
 Hola, mi nombre es Luciano Nicolás Suárez, tengo 21 años y actualmente estoy cursando Sistemas Operativos, Comunicación de Datos y Física 2.
 
