@@ -9,4 +9,4 @@ Estoy abierto a recibir consejos, tips o recursos que puedan ayudarme a mejorar 
 Gracias por tomarte el tiempo de leer.
 ¡Saludos!
 ## Foto mia
-![foto de un pibe](foto.jpeg)
+![foto de un pibe](foto.jpg)
