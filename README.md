@@ -1,7 +1,8 @@
 ## ¡Bienvenidos!
 ### Sobre mí
 Hola, mi nombre es Luciano Nicolás Suárez, tengo 21 años y actualmente estoy cursando Sistemas Operativos, Comunicación de Datos y Física 2.
-
+Tengo una mascota, un perro, llamado Ruby es muy activo, le gusta correr todo el tiempo y le gusta que lo mimen todo el tiempo.
+![foto de un perrito](Rubito.jpg)
 Me interesa mejorar mis habilidades en programación. Aunque aún debo rendir el final de Algoritmos, estoy enfocado en aprender y prepararme para aprobarlo este año.
 
 Estoy abierto a recibir consejos, tips o recursos que puedan ayudarme a mejorar en programación. ¡Cualquier aporte será bienvenido!
